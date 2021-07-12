@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/trottdw/planesnet-detector/models/model.tfl"
+all_model_checkpoint_paths: "/home/trottdw/planesnet-detector/models/model.tfl"
